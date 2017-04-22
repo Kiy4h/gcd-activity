@@ -1,0 +1,7 @@
+[Activity]
+name = gcdActivity
+bundle_id = org.sugarlabs.Sugargamegcd
+exec = sugar-activity gcdActivity.gcdActivity
+icon = activity-generic
+activity_version = 3
+show_launcher = yes
